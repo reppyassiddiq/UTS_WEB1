@@ -1,0 +1,78 @@
+body {
+  background: linear-gradient(to bottom, #000000 0%, #1a1a1a 25%, #2f2f2f 50%, #555555 75%, #ffffff 100%);
+  color: #e0e0e0; /* Warna teks agar terlihat estetik dan mudah dibaca */
+  font-family: 'Roboto', sans-serif; /* Menambahkan font Roboto */
+}
+
+.profile h2 {
+  font-family: 'Poppins', sans-serif; /* Menggunakan font Poppins untuk judul */
+  color: #ffffff;
+  margin-top: 15px;
+}
+
+.profile h4 {
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto untuk subjudul */
+  color: #d6d6d6;
+  margin-top: 10px;
+}
+
+.biodata {
+  background: linear-gradient(to bottom, #2f2f2f 0%, #3f3f3f 50%, #5f5f5f 100%);
+  padding: 55px 20px 200px 20px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.7);
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto */
+}
+
+.row {
+  padding: 20px;
+  color: #e0e0e0;
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto */
+}
+
+.achievement {
+  padding-top: 55px;
+  color: #eaeaea;
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto */
+}
+
+.footer {
+  background: linear-gradient(to top, #1a1a1a, #2f2f2f, #555555);
+  padding: 20px;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif; /* Menggunakan font Poppins untuk footer */
+}
+
+.contact a {
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif; /* Menggunakan font Poppins untuk kontak */
+}
+
+.contact a:hover {
+  color: #e0e0e0;
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+
+.watermark {
+  padding-top: 30px;
+  color: #d6d6d6;
+  opacity: 0.7;
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto untuk watermark */
+}
+
+.card {
+  background: linear-gradient(to bottom right, #222, #444);
+  color: #fff;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto untuk card */
+}
+
+.card p {
+  color: #ddd; /* Warna teks sedikit lebih terang */
+  font-family: 'Roboto', sans-serif; /* Menggunakan font Roboto untuk teks dalam card */
+}
